@@ -1,5 +1,23 @@
 # RAG
 
+```
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="shortcut icon" href="/logo.svg">
+    <title>RAGFlow</title>
+    <link rel="stylesheet" href="/umi.d698157c.css">
+</head>
+<body>
+    <div id="root"></div>
+    <script src="/umi.66b3000d.js"></script>
+</body>
+</html>
+```
+
 https://github.com/gtechsltn/ragflow
 
 https://github.com/gtechsltn/rag_resource
